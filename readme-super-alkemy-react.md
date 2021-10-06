@@ -11,9 +11,15 @@ Este proyecto fue creado con [Create React App](https://github.com/facebook/crea
 * CORS Habilitación [CORS Chrome Extension](https://chrome.google.com/webstore/detail/allow-cors-access-control/lhobafahddgcelffkeicbaginigeejlf?hl=es)
 
 
-## Scripts Disponibles
+## Scripts Disponibles :wrench:
 
 _Para inicializar_
+
+Instalar dependencias
+
+```
+ npm install
+```
 
 En el directorio del proyecto, puedes ejecutar:
 
@@ -41,10 +47,6 @@ _Herramientas utilizadas_
 * [Vs Code](https://code.visualstudio.com/) - Editor
 
 
-## Autor ✒️
-
-* **Renzo Garcia**  - [devrebeleza](https://github.com/devrebeleza) - [LinkedIn](https://www.linkedin.com/in/renzogarcia/)
-
 ## Despliegue 
 
 _Desplegado en Vercel_
@@ -55,6 +57,10 @@ _Desplegado en Vercel_
 ## Licencia 📄
 
 Uso libre y gratuito
+
+## Autor ✒️
+
+* **Renzo Garcia**  - [devrebeleza](https://github.com/devrebeleza) - [LinkedIn](https://www.linkedin.com/in/renzogarcia/)
 
 [link readme](https://gist.github.com/Villanuevand/6386899f70346d4580c723232524d35a)
 ---
