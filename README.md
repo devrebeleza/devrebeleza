@@ -10,6 +10,7 @@
 
 - 🌟 See my own web site: https://renzogarcia.vercel.app/
 
+- 👀 A video about a project of mine-> https://www.youtube.com/watch?v=0JBvuEEQ4yM&ab_channel=midudev
 
 <!---
 devrebeleza/devrebeleza is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
