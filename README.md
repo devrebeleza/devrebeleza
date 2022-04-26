@@ -6,11 +6,11 @@
 
 - 💞️ I’m looking to collaborate with advanced developers
 
-- 📫 How to reach me: linkedin-> [linkedIn](https://www.linkedin.com/in/renzogarcia/)
+- 📫 How to reach me: [linkedIn](https://www.linkedin.com/in/renzogarcia/)
 
 - 🌟 See my own web site: [porfolio](https://renzogarcia.vercel.app/)
 
-- 👀 A video about a project of mine-> [Video](https://www.youtube.com/watch?v=0JBvuEEQ4yM)
+- 👀 A video about a project of mine: [Video](https://www.youtube.com/watch?v=0JBvuEEQ4yM)
 
 <!---
 devrebeleza/devrebeleza is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
