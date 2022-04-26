@@ -6,9 +6,9 @@
 
 - 💞️ I’m looking to collaborate with advanced developers
 
-- 📫 How to reach me: [linkedIn](https://www.linkedin.com/in/renzogarcia/)
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/renzogarcia/)
 
-- 🌟 See my own web site: [porfolio](https://renzogarcia.vercel.app/)
+- 🌟 See my own web site: [Portfolio](https://renzogarcia.vercel.app/en/)
 
 - 👀 A video about a project of mine: [Video](https://www.youtube.com/watch?v=0JBvuEEQ4yM)
 
