@@ -1,4 +1,4 @@
-- 👋 Hello, My name is Renzo Garcia, I am Software Developer (Bachelor of Computer Science) with more than 13 years in the development of Oracle databases and PL/SQL language
+- 👋 Hello, My name is **Renzo Garcia**, I am Software Developer (Bachelor of Computer Science) with more than 13 years in the development of Oracle databases and PL/SQL language
 
 - 👀 I’m interested in Web Development and new Challenges
 
