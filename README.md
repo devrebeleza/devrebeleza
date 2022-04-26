@@ -2,7 +2,7 @@
 
 - 👀 I’m interested in Web Development and new Challenges
 
-- 🌱 I’m currently learning HTML, CSS, JavaScript, PHP, Python, ReactJS -> after that I'll learn node js
+- 🌱 I am improving my knowledge in HTML, CSS, JavaScript, ReactJS, Node.js -> after that I'll improve PHP and Python
 
 - 💞️ I’m looking to collaborate with advanced developers
 
